@@ -1,5 +1,6 @@
 ### Vim Cheatsheet
 
+```
 ##### Navigating
 h = left
 j = down
@@ -7,7 +8,9 @@ k = up
 l = right
 e = move right, end of each word
 b = move left, start of each word
+```
 
+```
 #### Inserting
 i = insert
 o = insert on next line, creates new line
@@ -20,7 +23,9 @@ u = undo
 :q = quit
 :q! = force quit, without saving
 :wq = quit and save
+```
 
+```
 #### Visual
 v = visual mode
 h = highlight left
@@ -33,4 +38,4 @@ p = paste after cursor
 P = paste before cursor
 shift + > = indent right
 shift + < = indent left
-
+```
