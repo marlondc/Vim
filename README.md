@@ -1,6 +1,6 @@
 ### Vim Cheatsheet
 
-##### Navigating
+#### Navigating
 ```
 h = left
 j = down
