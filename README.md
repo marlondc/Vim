@@ -8,6 +8,7 @@ k = up
 l = right
 e = move right, end of each word
 b = move left, start of each word
+w = move right, start of each word
 ```
 
 #### Inserting
