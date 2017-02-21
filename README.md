@@ -24,6 +24,8 @@ u = undo
 :q = quit
 :q! = force quit, without saving
 :wq = quit and save
+
+ciw'Ctrl+r"' = surround the current word in single quotes
 ```
 
 #### Visual
